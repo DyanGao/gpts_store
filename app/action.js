@@ -1,5 +1,4 @@
 import supabase from '@/app/config/supabaseClient'
-import { M_PLUS_1 } from 'next/font/google';
 
 const fetchCards = async (page=1, pageSize=21) => {
   try {
