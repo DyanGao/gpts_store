@@ -51,7 +51,7 @@ export default function Home() {
       
       <section className='container'>
       <div className='w-full text-center sm:text-left justify-self-start'>
-        <h1 className='text-center text-2xl sm:text-4xl md:text-6xl md:leading-normal'>Discover Third-party GPTs Store</h1>
+        <h1 className='text-center text-2xl sm:text-4xl md:text-6xl md:leading-normal'>Discover Third-party GPTs </h1>
         <h2 className='text-xl text-center'> <strong className='underline  decoration-wavy underline-offset-1 decoration-yellow-300 decoration-2 '>8201</strong> GPTs found and counting</h2>
         <div className="flex justify-center items-center">
           <div className="relative w-[500px]">
